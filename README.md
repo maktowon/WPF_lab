@@ -23,6 +23,6 @@ The task was pretty straightforward to sort DAG topologically.
 Algorithmic task where you are given n empty glasses of volume _x1, x2, ..., xn_ return if it is possible to end in situation where there is _y1, y2, ..., yn_ water in glasses _1, 2, ..., n_, while having only 3 operations
 * fill the glass to _xi_
 * empty the glass
-* pour the water from glass _i_ to glass _j_ (the remaining water stays in the glass _i_ \
+* pour the water from glass _i_ to glass _j_ (the remaining water stays in the glass _i_)
 
-This is the "Mokra robota" task from the III Polish Informatic Olympiad.
+This is the "Mokra robota" task from the III Polish Olympiad in Informatics.
